@@ -35,3 +35,8 @@ C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\obj\Release\net6.0
 C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\obj\Release\net6.0\LocationApi.pdb
 C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\obj\Release\net6.0\LocationApi.genruntimeconfig.cache
 C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\obj\Release\net6.0\ref\LocationApi.dll
+C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Release\net6.0\publish\web.config
+C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Release\net6.0\publish\LocationApi.deps.json
+C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Release\net6.0\publish\LocationApi.runtimeconfig.json

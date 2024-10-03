@@ -35,8 +35,13 @@ C:\Users\Wiljami\OneDrive\Desktop\react-granlund\server\LocationApi\obj\Debug\ne
 C:\Users\Wiljami\OneDrive\Desktop\react-granlund\server\LocationApi\obj\Debug\net6.0\LocationApi.pdb
 C:\Users\Wiljami\OneDrive\Desktop\react-granlund\server\LocationApi\obj\Debug\net6.0\LocationApi.genruntimeconfig.cache
 C:\Users\Wiljami\OneDrive\Desktop\react-granlund\server\LocationApi\obj\Debug\net6.0\ref\LocationApi.dll
+C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Debug\net6.0\publish\web.config
 C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Debug\net6.0\publish\LocationApi.deps.json
+C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Debug\net6.0\publish\LocationApi.runtimeconfig.json
 C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Debug\net6.0\LocationApi.exe
 C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Debug\net6.0\LocationApi.deps.json
 C:\Users\Wiljami\OneDrive\Desktop\granlund-server\LocationApi\bin\Debug\net6.0\LocationApi.runtimeconfig.json

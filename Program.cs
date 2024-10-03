@@ -8,14 +8,17 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.Services.AddControllers();
 
-// CORS configuration
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAllOrigins",
+    options.AddPolicy("AllowSpecificOrigins",
         builder => builder
-            .WithOrigins("http://localhost:3000")
+            .WithOrigins(
+                "http://localhost:3000",  // Local
+                "https://zealous-ground-02d7ac310.5.azurestaticapps.net"  // Azure static web app frontend
+            )
             .AllowAnyMethod()
-            .AllowAnyHeader());
+            .AllowAnyHeader()
+            .AllowCredentials());
 });
 
 var app = builder.Build();
@@ -27,7 +30,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseCors("AllowAllOrigins");
+app.UseCors("AllowSpecificOrigins");
 
 app.UseAuthorization();
 
