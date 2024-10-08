@@ -1465,11 +1465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wiljami\\OneDrive\\Desktop\\granlund-server\\LocationApi\\LocationApi.csproj",
+      "projectUniqueName": "C:\\Users\\Wiljami\\OneDrive\\Desktop\\Työpöytä4102024\\GranlundServer\\NETLocationApi\\LocationApi.csproj",
       "projectName": "LocationApi",
-      "projectPath": "C:\\Users\\Wiljami\\OneDrive\\Desktop\\granlund-server\\LocationApi\\LocationApi.csproj",
+      "projectPath": "C:\\Users\\Wiljami\\OneDrive\\Desktop\\Työpöytä4102024\\GranlundServer\\NETLocationApi\\LocationApi.csproj",
       "packagesPath": "C:\\Users\\Wiljami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wiljami\\OneDrive\\Desktop\\granlund-server\\LocationApi\\obj\\",
+      "outputPath": "C:\\Users\\Wiljami\\OneDrive\\Desktop\\Työpöytä4102024\\GranlundServer\\NETLocationApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wiljami\\AppData\\Roaming\\NuGet\\NuGet.Config",

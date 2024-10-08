@@ -14,7 +14,7 @@ builder.Services.AddCors(options =>
         builder => builder
             .WithOrigins(
                 "http://localhost:3000",  // Local
-                "https://zealous-ground-02d7ac310.5.azurestaticapps.net"  // Azure static web app frontend
+                "https://AZURE-URL"  // Azure static web app frontend
             )
             .AllowAnyMethod()
             .AllowAnyHeader()

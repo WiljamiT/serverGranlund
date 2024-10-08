@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BeXtmgY2UjWDBLOXvbHLRWfnNE8g00pwWzFpB5vfJYs7zrIuxQH2qk0PAotPmVzpIFn5BjhxZggWGSqaOWXw/g==",
+  "dgSpecHash": "5UbmEVVNpAjUkTQ2ee5OmxJQgfm01A5hpazrWw4Z2MIm0v7pKETgn8UptgZ5sLD27v2MBRyhMKTgTDB2vt0y8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wiljami\\OneDrive\\Desktop\\granlund-server\\LocationApi\\LocationApi.csproj",
+  "projectFilePath": "C:\\Users\\Wiljami\\OneDrive\\Desktop\\Työpöytä4102024\\GranlundServer\\NETLocationApi\\LocationApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wiljami\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Wiljami\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
